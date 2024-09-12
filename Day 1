@@ -1,0 +1,12 @@
+Today was the first lesson in Phyton Bootcamp , I have learned many new things . In general about Phyton, its variables , functions-  print, input, len().
+these are some rules for variable names:
+1. Make sure your variable names are descriptive
+2.Dont have spaces between words
+3.Dont start with numbers
+4.Don't use special words like print or input
+5.Choose simple words THAT ARE LESS LIKELy to become typos
+6.Check the company style guidelines if you start work at a company
+
+\n - is used to start a new line 
+space sensitive, so for example if we put space before the start of print it will show the error
+
